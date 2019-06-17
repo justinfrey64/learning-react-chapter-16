@@ -11,4 +11,5 @@ In this chapter, I learned how to create a sliding menu which can be used to cre
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-14">Chapter 14</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-15">Chapter 15</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-17">Chapter 17</a></li>
+  <li><a href="https://github.com/justinfrey64/learning-react-chapter-18">Chapter 18</a></li>
 </ul>
