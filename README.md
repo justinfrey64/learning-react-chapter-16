@@ -2,7 +2,7 @@
 
 Chapter 16: Creating a Sliding Menu in React
 
-In this chapter, I learned how to get data from external sources using XMLHTTPRequest and Ajax. I also learned the difference between presentatinal and Container components in React
+In this chapter, I learned how to create a sliding menu which can be used to creata a more dynamic and fluid user experience
 
 <h3>Links to Other Chapters</h3>
 <ul>
